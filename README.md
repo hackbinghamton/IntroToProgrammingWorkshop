@@ -31,7 +31,6 @@ Computer programs organize files with directories. A directory contains a set of
 #### Home Directory and Pathnames
 Unix associates each user with a directory. When you log in, you are placed in your home directory.
 
-Directory
 ![directory image](images/file_tree.jpg)
 
 The **root** directory is at the top of the file tree.

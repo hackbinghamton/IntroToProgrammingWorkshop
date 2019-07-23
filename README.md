@@ -1,4 +1,18 @@
 # Intro To Programming Workshop
+- [What is the terminal?](#what-is-the-terminal?)
+  * [How to open the terminal](#how-to-open-the-terminal)
+  * [File Structure](#file-structure)
+  * [Terminal Navigation](#terminal-navigation)
+  * [Basic Commands](#basic-commands)
+  * [Cheatsheet](#cheatsheet)
+- [Input and Output processing](#input-and-output-processing)
+  * [Output redirection](#output-redirection)
+  * [Input redirection](#input-redirection)
+- [Version Control](#version-control)
+  * [Git and Github](#git-and-github)
+  * [Basic git commands](#basic-git-commands)
+  * [Best Practices](#best-practices)
+- [Comparing different languages](#comparing-different-languages)
 
 ## What is the terminal?
 
@@ -63,7 +77,7 @@ By convention `..` will refer to the parent directory (one level higher than you
 * `rmdir directory_name` removes the directory (will only let you use if it's empty)
 - If you want to remove a directory and its contents, you can use `rm -r directory`
 
-### Basic Command Cheatsheet
+### Cheatsheet
 | Command        | What it means            |
 | ------------- |:-------------:|
 | man     | get the manual pages of a command if available |
@@ -101,7 +115,7 @@ $ wc -l < file.txt
 8
 ```
 
-### Pipes
+#### Pipes
 
 Pipes `|` connect the output of one command to the input of another.
 
@@ -112,7 +126,7 @@ Pipes `|` connect the output of one command to the input of another.
 
 What's the diffrence between Git and GitHub? Git is a distributed version-control system for tracking changes in source code, while Github is a company that provides hosting for Git. 
 
-### Installing Git and Making a Github account
+#### Installing Git and Making a Github account
 
 Follow the [instructions](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git) to install git and go to [Github](https://github.com/) and sign up for an account. 
 
@@ -159,4 +173,5 @@ Commits should be made as **frequently** as possible. Frequent commits allow you
 
 #### Leave descriptive commits 
 Commits should act as snapshots of your code. By adding descriptive commits, you'll make it easier to identify what your changes did.
+
 ## Comparing different languages

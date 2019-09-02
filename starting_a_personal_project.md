@@ -3,3 +3,11 @@
 - [Details](#details)
 - [Prototyping](#prototyping)
 - [Development](#development)
+
+## Idea
+
+## Details
+
+## Prototyping
+
+## Development

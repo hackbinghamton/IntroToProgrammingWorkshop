@@ -1,4 +1,4 @@
-# Intro To Programming
+# Intro to Programming
 - [What is the terminal?](#what-is-the-terminal?)
   * [How to open the terminal](#how-to-open-the-terminal)
   * [File Structure](#file-structure)

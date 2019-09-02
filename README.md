@@ -1,1 +1,1 @@
-# Intro To Programming and Starting a Personal Project Workshop
+# Intro to Programming and Starting a Personal Project Workshop

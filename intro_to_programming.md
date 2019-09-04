@@ -44,9 +44,11 @@ cat *.txt > newfile.txt
 Hit the keyboard shortcut Ctrl - Alt - T.
 
 ### Windows
-Windows also has a built-in terminal, Powershell; however, Powershell's shell differs from the shells on Mac and Linux. 
+Windows also has a built-in terminal, Command Line. Command line differs greatly from the shells on Mac and Linux.
 
-Git comes with a version of Bash (the shell on Mac and Linux). This tutorial mostly follows Bash conventions -- some commands will work on Powershell, and some will not. You can get Git (and its version of Bash) [here.](https://git-for-windows.github.io/)
+Thankfully, Windows comes with Powershell, which supports many common Linux commands.
+
+The Windows installation of Git comes with a version of Bash (the shell on Mac and Linux). This tutorial mostly follows Bash conventions, so we recommend installing Git for Windows users. You can get Git (and its version of Bash) [here.](https://git-for-windows.github.io/)
 
 ### File Structure
 #### Directories

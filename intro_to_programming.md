@@ -20,7 +20,7 @@
 
 The terminal is a command line interface which takes commands from a user, lets the computer process the commands, and displays the output through a command line interface.
 
-## Why use the Terminal?
+### Why use the Terminal?
 While graphical user interfaces (GUIs) are helpful for a lot of things, sometimes command line interfaces (CLIs) are the better tool for the job.
 As an example, imagine you have a messy folder, and you want to combine all the .txt files into a new file called "newfile.txt". If you use a GUI, this seems like a tedious task, but it only takes one line in the *shell*.
 

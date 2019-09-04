@@ -76,3 +76,5 @@ In programming you have things known as classes and functions. Classes are essen
 
 Functions are used to carry out certain tasks on command when you run your program. Similar to a class signature, a function signature contains the name of the function and the parameters needed to complete that function. In certain programming languages, the function signature will also contain the return type for that function. Functions are another way to write reusable code and save time when making your program. By listing a certain set of instructions within a function, calling this function throughout the program will allow you to perform tasks without rewriting the code each time.
 
+
+## Next section (recommended): [Starting Development](https://github.com/HackBinghamton/IntroToProgrammingWorkshop/blob/master/StartingDevelopment.md)

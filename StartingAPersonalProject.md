@@ -1,6 +1,6 @@
 # Starting a Personal Project
-- [Bringing an Idea to Life](https://github.com/HackBinghamton/IntroToProgrammingWorkshop/blob/master/IdeaToProject.md)
-- [Fleshing out the Details](https://github.com/HackBinghamton/IntroToProgrammingWorkshop/blob/master/FleshingOutTheDetails.md)
-- [Prototyping and Choosing Your Tech Stack](https://github.com/HackBinghamton/IntroToProgrammingWorkshop/blob/master/ChoosingTechnologiesAndPrototyping.md)
-- [Starting Development](https://github.com/HackBinghamton/IntroToProgrammingWorkshop/blob/master/StartingDevelopment.md)
+1. [Bringing an Idea to Life](https://github.com/HackBinghamton/IntroToProgrammingWorkshop/blob/master/IdeaToProject.md)
+2. [Fleshing out the Details](https://github.com/HackBinghamton/IntroToProgrammingWorkshop/blob/master/FleshingOutTheDetails.md)
+3. [Prototyping and Choosing Your Tech Stack](https://github.com/HackBinghamton/IntroToProgrammingWorkshop/blob/master/ChoosingTechnologiesAndPrototyping.md)
+4. [Starting Development](https://github.com/HackBinghamton/IntroToProgrammingWorkshop/blob/master/StartingDevelopment.md)
 

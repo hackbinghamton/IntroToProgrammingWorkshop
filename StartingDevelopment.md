@@ -3,9 +3,7 @@
   * Introduction
   * COM3
     * Communicative
-    
     * Comprehensive
-    
     * Compact
 
 # Clean Code
@@ -14,7 +12,9 @@ One of the most important yet least discussed aspects of successful projects is 
 
 Remember COM3:
 **Com**municative
+
 **Com**prehensive
+
 **Com**pact
 
 ### Communicative

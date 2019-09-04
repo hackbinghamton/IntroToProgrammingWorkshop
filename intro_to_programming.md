@@ -1,5 +1,7 @@
 # Intro to Programming
+
 - [What is the terminal?](#what-is-the-terminal?)
+  * [Why use the terminal?](#why-use-the-terminal)
   * [How to open the terminal](#how-to-open-the-terminal)
   * [File Structure](#file-structure)
   * [Terminal Navigation](#terminal-navigation)
@@ -18,10 +20,33 @@
 
 The terminal is a command line interface which takes commands from a user, lets the computer process the commands, and displays the output through a command line interface.
 
+## Why use the Terminal?
+While graphical user interfaces (GUIs) are helpful for a lot of things, sometimes command line interfaces (CLIs) are the better tool for the job.
+As an example, imagine you have a messy folder, and you want to combine all the .txt files into a new file called "newfile.txt". If you use a GUI, this seems like a tedious task, but it only takes one line in the *shell*.
+
+```
+cat *.txt > newfile.txt
+```
+
 ### How to open the terminal
 
-// TODO: Add images describing how to find the terminal for mac users, unix, or windows
+### Mac OS
+1. Open Finder from the Dock.
+2. Open your Applications folder.
+3. Open Utilities.
+4. Double click on Terminal.
+
 ![terminal image](images/terminal.png)
+
+### Ubuntu
+Hit the keyboard shortcut Ctrl - Alt - T.
+
+### Windows
+Windows also has a built-in terminal, Command Prompt; however, Command Prompt's shell differs greatly from the shells on Mac and Linux. So you will need to install a shell.
+
+We recommend you install Git since it comes with a version of Bash (the shell on Mac and Linux).
+
+You can get it [here.](https://git-for-windows.github.io/)
 
 ### File Structure
 #### Directories
@@ -172,6 +197,3 @@ Commits should be made as **frequently** as possible. Frequent commits allow you
 
 #### Leave descriptive commits
 Commits should act as snapshots of your code. By adding descriptive commits, you'll make it easier to identify what your changes did.
-
-## Comparing different languages
-// TODO: fill in section

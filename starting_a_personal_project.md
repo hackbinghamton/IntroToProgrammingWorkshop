@@ -19,7 +19,7 @@ For example, if you are passionate about cooking, you may choose to address the 
 
 You also want to make sure the problem you choose is something *feasible* to address. Poverty is a huge problem, but it's unlikely that one project will eliminate all of poverty, so you would need to better define the problem. 
 
-Instead of just making the problem "poverty", it would be better to make the problem "poverty in Binghamton" so you can develop a project that aims to reduce poverty for residents in Binghamton. This makes the reduces the scope of the problem so that a solution is feasible.
+Instead of just making the problem "poverty", it would be better to make the problem "poverty in Binghamton" so you can develop a project that aims to reduce poverty for residents in Binghamton. This reduces the scope of the problem so that a solution is feasible.
 
 ### Determine Affected Audience
 It's just as important to determine the audience that the problem is affecting as it is to define the problem. Identifying who the problem is affecting will help you to better develop your project to cater to the needs of the audience and verify that the original problem is actually being addressed. 

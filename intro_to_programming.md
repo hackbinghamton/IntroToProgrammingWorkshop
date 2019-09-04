@@ -1,7 +1,7 @@
 # Intro to Programming
 
-- [What is the terminal?](#what-is-the-terminal?)
-  * [Why use the terminal?](#why-use-the-terminal?)
+- [What is the terminal?](#what-is-the-terminal)
+  * [Why use the terminal?](#why-use-the-terminal)
   * [How to open the terminal](#how-to-open-the-terminal)
   * [File Structure](#file-structure)
   * [Terminal Navigation](#terminal-navigation)
@@ -11,7 +11,7 @@
   * [Output redirection](#output-redirection)
   * [Input redirection](#input-redirection)
 - [Version Control](#version-control)
-  * [Why use Git?](#why-use-git?)
+  * [Why use Git?](#why-use-git)
   * [Git and Github](#git-and-github)
   * [Getting Started](#getting-started)
   * [Basic git commands](#basic-git-commands)

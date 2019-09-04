@@ -5,11 +5,11 @@ According to Eric Reids, the Minimum Viable Product (MVP) is defined as "that ve
 
 What does that definition really mean? The MVP is a version of the product with the least amount of functionality possible. Every project has a different MVP; some may just be a landing page, while others may be a working prototype. This explains the "least effort" aspect of the definition.
 
+The users of the MVP will provide feedback, which is important to take into consideration. This is where the "maximum amount of validated learning" comes into play. Validated learning is trying a new idea on customers to "validate" the effect. 
+
 **Why?**
 
-The purpose of an MVP is to gain information from the user. The users of the MVP will provide feedback, which is important to take into consideration. The product is only considered an MVP if changes related to the reactions are made. If no changes are made, then it does not count as an MVP.
-
-Another reason to release an MVP is to save resources. Time is the most precious of these resources. It is not worth it to spend hours working on a functionality that users of the MVP will say to remove. Thus, you should start with the least functionality then build up from there. This is significantly less risky than releasing a finished product with no feedback.
+The main purposes of an MVP are to gain information from the user and to conserve resources. The user feedback will tell you where to spend the most time making changes. Time is the most precious of your resources. It is not worth it to spend hours working on a functionality that users of the MVP will say to remove. Thus, you should start with the least functionality then build up from there. This is significantly less risky than releasing a finished product with no feedback.
 
 **So?**
 

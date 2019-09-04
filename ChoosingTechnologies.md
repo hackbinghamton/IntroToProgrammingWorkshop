@@ -12,7 +12,7 @@ Here is a chart of some of the most common programming languages as well as thei
 | -------- | --------- | ----------- |
 | Python   | Easy to learn, Access to community-built libraries | Web applications, Machine learning, Data retrieval and engineering|
 | C/C++    | High performance, Low level control over memory | Resource intensive applications, Game engines, High-liability software (Medical, Military, etc.) |
-| C# | Easier to use than C/C++ but less powerful | Game development |
+| C# | Easier to use than C/C++ but less powerful | Full-Stack Web Applications, Game development |
 | Java     | Encourages object oriented programming | Android app development |
 | Javascript| Powerful frameworks for website functionality | Advanced website development, Web applications |
 | HTML/CSS | Pixel-by-pixel control over webpage appearance | Front-End Website Development |
@@ -27,7 +27,7 @@ Machine Learning is quickly becoming one of the most powerful tools in all of co
 
 Machine Learning algorithms are very good at a few key tasks: making predictions, recognizing patterns, identifying important information, and classifying objects.
 
-In order to ensure that an ML algorithm performs each of these tasks with the highest accuracy possible, a large pool of high quality data is required to 
+In order to ensure that an ML algorithm performs each of these tasks with the highest accuracy possible, a large pool of high quality data is required to
 
 Now that you know **when** to use ML, stop by our [Machine Learning Workshop](https://calendar.google.com/event?action=TEMPLATE&tmeid=M282YWprNzFwMXBvNDJqcWpubDFlaGdhaHNfMjAxOTEwMTZUMjIzMDAwWiBkaGFycGVyMUBiaW5naGFtdG9uLmVkdQ&tmsrc=dharper1%40binghamton.edu) on October 16th to learn about **how** to start using it in your projects.
 

@@ -31,4 +31,4 @@ It can be helpful to think of multiple solutions and consider the impact and fea
 
 To continue the example from before, the solution for the people who struggle to cook meals because they're too busy and/or lack cooking knowledge and ingredients could be creating a program in which people can input a list of ingredients that they have readily available and the program will output a list of recipes that only uses those ingredients. This will help prevent the issue of recipes including ingredients people don't have for those who are too busy to get to the store. There can be criteria on the recipes requiring them to be easy to make and to take 30 minutes or less so people in the target audience with low skill and little time will be helped by the program.
 
-## Next section (reccomended): []
+## Next section (reccomended): [Fleshing out the Details](https://github.com/HackBinghamton/IntroToProgrammingWorkshop/blob/master/FleshingOutTheDetails.md)

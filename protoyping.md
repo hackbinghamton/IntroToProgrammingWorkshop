@@ -1,0 +1,8 @@
+# Prototyping
+## Diagrams
+When planning for a personal project, diagrams can be one of your most valuable tools. Mainly, they can help you to plan out how various parts of your program will interact with each other. For example, a diagram for a class may help you to specify the class variables and methods of that class. It can also help you to plan out class objects and instance variables. While class variables belong to a class, instance variables belong to an **instance** of that class, which is also known as an object.
+
+## Class and Function Signatures
+In programming you have things known as classes and functions. Classes are essentially blueprints for objects that will have certain characteristics or "instance variables" that are defined in that class. For example, a class may be "planet" and an instance variable may be "distance from the sun". A class signature is the line of code where the class is named and the parameters (instance variables) for that class are specified. Using classes will allow you to reuse the same "blueprint" for different parts of your program without having to rewrite the same code every time you need to use it.
+
+Functions are used to carry out certain tasks on command when you run your program. Similar to a class signature, a function signature contains the name of the function and the parameters needed to complete that function. In certain programming languages, the function signature will also contain the return type for that function. Functions are another way to write reusable code and save time when making your program. By listing a certain set of instructions within a function, calling this function throughout the program will allow you to perform tasks without rewriting the code each time.

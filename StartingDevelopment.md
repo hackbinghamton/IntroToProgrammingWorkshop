@@ -3,7 +3,9 @@
   * Introduction
   * COM3
     * Communicative
+    
     * Comprehensive
+    
     * Compact
 
 # Clean Code

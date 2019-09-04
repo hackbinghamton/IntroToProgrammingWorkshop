@@ -31,7 +31,7 @@ To build off the cooking example, the people affected by the problem are people 
 ### Determine The Solution
 After defining a problem and the audience that the problem affects, it's now time to figure out how to solve the problem. You want to make sure that your solution will actually address the problem and be beneficial for the audience affected by the problem. 
 
-It can be helpful to think of multiple solutions and after considering the impact and feasability of each one. While brainstorming solutions, you'll want to constantly refer back to problem and it affects.
+It can be helpful to think of multiple solutions and consider the impact and feasability of each one. While brainstorming solutions, you'll want to constantly refer back to the problem and who it affects.
 
 To continue the example from before, the solution for the people who struggle to cook meals because they're too busy and/or lack cooking knowledge and ingredients could be creating a program in which people can input a list of ingredients that they have readily available and the program will output a list of recipes that only uses those ingredients. This will help prevent the issue of recipes including ingredients people don't have for those who are too busy to get to the store. There can be criteria on the recipes requiring them to be easy to make and to take 30 minutes or less so people in the target audience with low skill and little time will be helped by the program.
 

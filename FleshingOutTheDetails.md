@@ -5,11 +5,14 @@
   * How to create an AC
   * Now what?
 * Minimum Viable Product
- * What?
- * Why?
- * So?
+  * What?
+  * Why?
+  * So?
 * Project Management
- * 
+  * Agile
+  * Cost Estimation and Planning
+  * Establishing a Time Frame
+  * Agile is pretty cool!
 
 ## Acceptance Criteria
 Acceptance criteria (AC) is a set of pre-established standards that a project must meet to satisfy its users. The AC should define the end goals; furthermore, it defines when the project is done. This is important so that nothing is forgotten in the process and there is no ambiguity in the design.

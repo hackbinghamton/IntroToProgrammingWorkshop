@@ -16,8 +16,7 @@
   * [Getting Started](#getting-started)
   * [Basic git commands](#basic-git-commands)
   * [Best Practices](#best-practices)
-- [Comparing different languages](#comparing-different-languages)
-
+  
 ## What is the terminal?
 
 The terminal is a command line interface which takes commands from a user, lets the computer process the commands, and displays the output through a command line interface.

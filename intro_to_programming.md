@@ -244,7 +244,7 @@ git push -u origin master
 ```
 
 ### Pull Requests
-Pull requests help users contribute to shared repositories. If you're interested in learning more about how to make a pull request, check out [this section](making_a_pull_request.md)
+Pull requests help users contribute to shared repositories. If you're interested in learning more about how to make a pull request, check out [this section](making_a_pull_request.md).
 
 ### Best Practices
 #### Commit often

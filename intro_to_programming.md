@@ -15,8 +15,9 @@
   * [Git and Github](#git-and-github)
   * [Getting Started](#getting-started)
   * [Basic git commands](#basic-git-commands)
+  * [Pull Requests](#pull-requests)
   * [Best Practices](#best-practices)
-  
+
 ## What is the terminal?
 
 The terminal is a command line interface which takes commands from a user, lets the computer process the commands, and displays the output through a command line interface.
@@ -241,6 +242,9 @@ git commit -m "commit message"
 git remote add origin <repo_name> # only needed once
 git push -u origin master
 ```
+
+### Pull Requests
+Pull requests help users contribute to shared repositories. If you're interested in learning more about how to make a pull request, check out [this section](making_a_pull_request.md)
 
 ### Best Practices
 #### Commit often

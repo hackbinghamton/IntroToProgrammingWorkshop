@@ -47,11 +47,11 @@ If you ever want to switch back to the master branch, use `git checkout master`
 Once you are on your newly created branch, you can add your changes with the typical git flow:
 
 1. `git add file-name`
-  * "file-name" is the name of the file you want to add
+  * *file-name* is the name of the file you want to add
 2. `git commit -m "message"`
- * "message" describes what the committed code does and is a little more descriptive
+ * *message* describes what the committed code does and is a little more descriptive
 3. `git push --set-upstream origin new-branch`
- * "new-branch" is your branch name
+ * *new-branch* is your branch name
 
 ## Getting started
 To get started and make your first pull request, follow [this repo](https://github.com/firstcontributions/first-contributions).

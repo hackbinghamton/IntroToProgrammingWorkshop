@@ -120,13 +120,13 @@ By convention `..` will refer to the parent directory (one level higher than you
 ### Output redirection
 You can use `>` to divert an output to another file
 ```
-$ echo hello >> file
+$ echo hello > file
 $ cat file
 hello
 ```
 Note: this will overwrite any existing data. To avoid this, you can use `>>` to **append** text
 ```
-$ echo hello again > file
+$ echo hello again >> file
 $ cat file
 hello
 hello again

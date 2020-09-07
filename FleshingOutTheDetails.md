@@ -15,7 +15,7 @@
   * Agile is pretty cool!
 
 ## Acceptance Criteria
-Acceptance criteria (AC) is a set of pre-established standards that a project must meet to satisfy its users. The AC should define the end goals; furthermore, it defines when the project is done. This is important so that nothing is forgotten in the process and there is no ambiguity in the design.
+Acceptance criteria (AC) are the pre-established standards that a project must meet to satisfy its users. The AC should define the end goals; furthermore, it defines when the project is done. This is important so that nothing is forgotten in the process and there is no ambiguity in the design.
 
 ### When to create an AC
 The AC should be established before development begins. At this point, the AC will be written focusing on the end goals. If the AC is written after development begins, it is likely that you will write the criteria based off how your program currently functions.
@@ -25,7 +25,7 @@ The AC should define what you want the program to do. The criteria should only f
 
 Each part of the AC should be written as a pass/fail statement that can easily be translated into at least one test case. Each statement should be a clear, concise goal. The goals should be written in simple terms; anyone reading them should be able to understand what you want.
 
-One format for writing criteria is given/when/then statements. Given a certain condition, when I perform this action, then this should occur. The given conditions ("given") can include who the user is or what functions they have already performed (ex. the user selected three emails). The action performed ("when") could be clicking a button (ex. when the user clicks a sort button). What occurs ("then") should be the result of the action (ex. emails get sorted by date).
+One format for writing criteria is given/when/then statements. Given a certain condition, when I perform this action, then this should occur. The given conditions ("given") can include who the user is or what functions they have already performed (e.g. the user selected three emails). The action performed ("when") could be clicking a button (e.g. when the user clicks a sort button). What occurs ("then") should be the result of the action (ex. emails get sorted by date).
 
 ### Now what?
 You have created your AC - now what? The AC can be used to generate test cases for your program. Writing each statement in the AC as pass/fail makes this transition to testing easier. Refer back to the AC often and ensure it stays updated. As you come up with more ideas for functions, add them to the AC. Your AC will eventually tell you when you have accomplished everything you wanted, which means you are done!
@@ -62,7 +62,7 @@ Work is divided into cycles called "sprints" where every member of the team has 
 
 This style of work is designed for teams of 5-10 people, but can be implemented with any team or even solo! It's all about the dedication to continuous improvement and willingness to be flexible.
 
-A key principle of Agile is *kaizen* which is a Japanese word that means "continuous improvement". It's a philosophy that is a part of iterative development -- all about focusing on activities that add value and not wasting precious resources on activities that do not.
+A key principle of Agile is *kaizen*, which is a Japanese word that means "continuous improvement". It's a philosophy that is a part of iterative development -- all about focusing on activities that add value and not wasting precious resources on activities that do not.
 
 There are a number of productivity tools designed with Agile development in mind. Some of the most popular are JIRA, Trello, and Monday. They all include the feature of boards where user stories are staged, rather than a typical to-do list. This allows you get a birds-eye view of the project and assign different tasks to different people appropriately. We use Trello for keeping track of HackBU tasks, and it's helped us stay on track!
 
@@ -78,8 +78,8 @@ A tactic Agile uses to be as accurate as possible in figuring out timeframe is a
 
 When you're thinking about what you can accomplish in any given sprint, analyze your past velocity and keep track of the kinds of things that slow you down. A way you can do this is by using a burndown chart to keep track of how many story points are being completed. This is also a great way to start thinking about *kaizen*.
 
-### Agile is pretty cool!
-If this is something that interests you, there are a lot of resources online where you can learn more about Agile development!
+### More Resources
+If Agile is something that interests you, there are a lot of resources online where you can learn more about Agile development!
 
 [The Agile Manifesto](https://agilemanifesto.org/principles.html).
 

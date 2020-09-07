@@ -109,7 +109,7 @@ git push -u origin master
 
 Pull requests help users contribute to shared repositories. They're the main means by which people contribute to open source software.
 
-If you're interested in learning more about how to make a pull request, check out [this section](making_a_pull_request.md).
+If you're interested in learning more about how to make a pull request, check out [this section](MakingAPullRequest.md).
 
 ## Best Practices
 

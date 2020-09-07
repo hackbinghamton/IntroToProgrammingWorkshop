@@ -1,7 +1,8 @@
 # Intro to Programming and Starting a Personal Project Workshop
 
-Welcome!
+Welcome to our first workshop of the year! We'll be focusing on two main topics today:
 
-If you're just getting started with programming, take a look at the [Intro to Programming section](intro_to_programming.md). This section will take you through the basics of the command line and version control. These skills are important to learn if you want to start a personal project because it makes your code organized and maintainable. (Sounds boring, but we promise it will come in handy!) Some of the topics covered in this section are **file structure**, **input/output processing**, and **Git/GitHub**. If you have some experience already with git, but are interested in learning how to make a pull request, take a look at [this section](making_a_pull_request.md).
-
-If you already have some experience programming and are stuck on how to start a personal project, take a look at the [Starting a Personal Project section](StartingAPersonalProject.md). This section will spark some of your amazing ideas about what kind of project you want to undertake, as well as equipping you with the organizational skills you'll need to take it from start to finish! Some of the topics covered in this section are **developing solutions**, **project management**, and **Agile**.
+1. **[Starting a Personal Project](StartingAPersonalProject.md)** - You don't need to know how to program to start thinking of what you'd like to build! Let's find out how, and come up with a personal project.
+1. **Intro to Programming** - Before we dive into the specifics of certain languages and technologies work, we'll need to understand better how to work with our computer through the terminal and by using version control.
+    * [Using the Terminal](UsingTheTerminal.md)
+    * [Version Control](VersionControl.md)

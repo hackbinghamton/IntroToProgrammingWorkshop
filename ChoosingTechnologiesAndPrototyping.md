@@ -47,7 +47,7 @@ If you want to predict a certain event, you'll need a large amount of data from 
 
 Before starting to add ML to your project, stop to consider whether or not you are trying to perform one of these 4 tasks, and if you have enough data to make an accurate model.
 
-Now that you know **when** to use ML, stop by our Machine Learning Workshop to learn about **how** to start using it in your projects.
+Now that you know **when** to use ML, stop by our Machine Learning Workshop on October 19 to learn about **how** to start using it in your projects.
 
 ### Databases
 
@@ -69,7 +69,7 @@ If you're going to be storing large amounts of data for your project, it's impor
 
  - Just like with SQL, there are many different engines for implementing NoSQL. By far the most popular option is MongoDB, which is also supported by nearly every major programming language. 
 
-Our [Data Science Workshop](https://calendar.google.com/event?action=TEMPLATE&tmeid=NXQyaWNrdXRjczJjdGRwOGMwajRpM2hnNW1fMjAxOTEwMDJUMjIzMDAwWiBiaW5naGFtdG9uLmVkdV9rdWlnMWdtc2JtdTlzNmFsZjRoMTNoOG42b0Bn&tmsrc=binghamton.edu_kuig1gmsbmu9s6alf4h13h8n6o%40group.calendar.google.com) on October 2nd from 6:30pm - 8:00pm will have an introduction to SQL, so add it to your calendar if you want to learn more!
+Our Data Science Workshop on October 12 will have an introduction to SQL, so mark your calendar if you want to learn more!
 
 ## Prototyping
 ### Diagrams

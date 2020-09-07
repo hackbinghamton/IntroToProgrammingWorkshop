@@ -85,4 +85,4 @@ Functions are used to carry out certain tasks on command when you run your progr
 When planning for a personal project, try to outline what classes and functions you might need, and think about how they might interact with one another.
 
 
-## Next section (recommended): [Starting Development](https://github.com/HackBinghamton/IntroToProgrammingWorkshop/blob/master/StartingDevelopment.md)
+## Next section (recommended): [Clean Code](https://github.com/HackBinghamton/IntroToProgrammingWorkshop/blob/master/CleanCode.md)

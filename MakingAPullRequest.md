@@ -1,8 +1,8 @@
 # Overview
 
-* What is a pull request?
-* Creating a Pull Request
-* Making Your First Pull Request
+* [What is a pull request?](#what-is-a-pull-request)
+* [Creating a Pull Request](#creating-a-pull-request)
+* [Making Your First Pull Request](#making-your-first-pull-request)
 
 # Making a Pull Request
 

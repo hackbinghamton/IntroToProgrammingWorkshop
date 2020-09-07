@@ -1,11 +1,11 @@
 # Overview
-* Researching and Choosing Technologies
-    * Programming Languages
-    * Machine Learning
-    * Databases
-* Prototyping
-    * Diagrams
-    * Class and Function Signatures
+* [Researching and Choosing Technologies](#researching-and-choosing-technologies)
+    * [Programming Languages](#programming-languages)
+    * [Machine Learning](#machine-learning)
+    * [Databases](#databases)
+* [Prototyping](#prototyping)
+    * [Diagrams](#diagrams)
+    * [Class and Function Signatures](#class-and-function-signatures)
 
 # Choosing Technologies and Prototyping
 

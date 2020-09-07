@@ -1,18 +1,14 @@
 # Overview
 
-* Acceptance Criteria
-  * When to create an AC
-  * How to create an AC
-  * Now what?
-* Minimum Viable Product
-  * What?
-  * Why?
-  * So?
-* Project Management
-  * Agile
-  * Cost Estimation and Planning
-  * Establishing a Time Frame
-  * Agile is pretty cool!
+* [Acceptance Criteria](#acceptance-criteria)
+  * [When to create an AC](#when-to-create-an-ac)
+  * [How to create an AC](#how-to-create-an-ac)
+* [Minimum Viable Product](#minimum-viable-product)
+* [Project Management](#project-management)
+  * [Agile](#agile)
+  * [Cost Estimation and Planning](#cost-estimation-and-planning)
+  * [Establishing a Time Frame](#establishing-a-time-frame)
+  * [More Resources](#more-resources)
 
 # Fleshing out the Details
 

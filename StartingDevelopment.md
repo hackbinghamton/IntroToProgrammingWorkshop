@@ -44,3 +44,17 @@ Remember COM3:
     * **D**on’t **R**epeat **Y**ourself
     * If you find yourself copying and pasting blocks of code and making very small adjustments to them, see if you can make those blocks more generic by using loops, functions, or inheritance.
 
+## Conclusion
+
+Now that you know how to:
+
+1. Pick out a good idea with a problem to solve
+2. Create acceptance criteria
+3. Define the minimum viable product
+4. Manage your project
+5. Choose your technologies
+6. Implement your project with clean code
+
+...nothing is holding you back! Now, it's time to start thinking about what you might want to construct for the 2021 HackBU Hackathon or our end-of-semester show-and-tell!
+
+We're looking forward to seeing what you create :)

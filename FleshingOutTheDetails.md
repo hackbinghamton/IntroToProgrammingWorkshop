@@ -17,10 +17,10 @@
 ## Acceptance Criteria
 Acceptance criteria (AC) are the pre-established standards that a project must meet to satisfy its users. The AC should define the end goals; furthermore, it defines when the project is done. This is important so that nothing is forgotten in the process and there is no ambiguity in the design.
 
-### When to create an AC
+### When to Create an AC
 The AC should be established before development begins. At this point, the AC will be written focusing on the end goals. If the AC is written after development begins, it is likely that you will write the criteria based off how your program currently functions.
 
-### How to create an AC
+### How to Create an AC
 The AC should define what you want the program to do. The criteria should only focus on the "what" not the "how", so implementation does not need to be included.
 
 Each part of the AC should be written as a pass/fail statement that can easily be translated into at least one test case. Each statement should be a clear, concise goal. The goals should be written in simple terms; anyone reading them should be able to understand what you want.

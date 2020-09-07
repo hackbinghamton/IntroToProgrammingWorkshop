@@ -204,7 +204,7 @@ git config --global user.name "Test User"'
 git config --global user.email "testuser@gmail.com"'
 ```
 
-#### Make a project
+#### Make a Project
 
 1. In your terminal, type `mkdir myproject` and `cd myproject` to create and enter a project directory.
 2. To make your current directory a Git repository, just type `git init`.
@@ -212,7 +212,7 @@ git config --global user.email "testuser@gmail.com"'
 4. Write or copy some files into the directory, and then type `git status`. This will show you the current status of what's available to add to Git.
 5. Under *Untracked Files*, you'll see the files that are in the directory, but not stored in Git.
 
-#### Save changes
+#### Save Changes
 
 1. To start tracking a file, type `git add myfile.txt`.
 2. This hasn't saved the changes yet -- we need to ask Git to do that.
@@ -220,7 +220,7 @@ git config --global user.email "testuser@gmail.com"'
 4. If it all looks good, type `git commit -m "Describe what you've changed in these quotes"`.
 5. To see what was saved, type `git show`. If you want to see a log of all of your previous commits, type `git log`.
 
-### Basic git commands
+### Basic Git Commands
 | Command        | What it means            |
 | ------------- |:-------------:|
 | `git init`   | Initializes an empty git repository|
@@ -251,8 +251,8 @@ Pull requests help users contribute to shared repositories. They're the main mea
 If you're interested in learning more about how to make a pull request, check out [this section](making_a_pull_request.md).
 
 ### Best Practices
-#### Commit often
+#### Frequent Commits
 Commits should be made as **frequently** as possible. Frequent commits allow you to easily revert changes, and will leave you with a descriptive log of what changes you've made since you started working.
 
-#### Leave descriptive commits
+#### Descriptive Commit Messages
 Commits should act as snapshots of your code. By adding descriptive commits, you'll make it easier to identify what your changes did.

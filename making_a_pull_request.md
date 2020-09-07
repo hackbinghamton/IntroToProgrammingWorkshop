@@ -1,6 +1,6 @@
 # Making a Pull Request
 
-## What is a Pull Request?
+## What is a pull request?
 A **pull request** (PR) tells others about changes that you want to make to a repository. Pull requests are great when you are working on a project with other people because they let each member view your changes, make comments, and review your code before applying your changes to the repository.
 
 Most open source projects on GitHub allow you to directly contribute to their codebase via a pull request, and many tech companies use pull requests as a way to ensure that code is **peer reviewed**.
@@ -28,7 +28,7 @@ Now, paste the URL after the `git clone` command. It should look something like 
 
 `git clone https://github.com/your-username/IntroToProgrammingWorkshop.git`
 
-### Creating a branch
+### Creating a Branch
 A branch helps to specify the changes you are making to a code base. The main branch of a project is typically called the **master** branch. It's best practice to only use the master branch for final changes that you want to make live. When creating a new branch, one should give it a descriptive name like `fix-workshop-typo` instead of `my-branch`.
 
 1. To create a branch, make sure you've entered your local copy of your repository:
@@ -54,7 +54,7 @@ Once you are on your newly created branch, you can add your changes with the typ
 1. `git add file-name`, where `file-name` is the name of the file you want to add
 2. `git commit -m "message"`, where the message describes what the committed code does and is a little more descriptive
 3. `git push --set-upstream origin new-branch`, where `new-branch` is your branch name
-## Making your first pull request
+## Making Your First Pull Request
 To get started and make your first pull request, check out [this repository on GitHub](https://github.com/firstcontributions/first-contributions)!
 
 Once you get the hang of it, feel free to make pull requests for any of our repositories! Feel free to add an exercise, a personal project, or just fix a typo!

@@ -1,4 +1,4 @@
-# Intro to Programming
+# Overview
 
 - [What is the terminal?](#what-is-the-terminal)
   * [Why use the terminal?](#why-use-the-terminal)
@@ -15,6 +15,8 @@
   * [Basic git commands](#basic-git-commands)
   * [Pull Requests](#pull-requests)
   * [Best Practices](#best-practices)
+
+# Intro to Programming
 
 ## What is the terminal?
 

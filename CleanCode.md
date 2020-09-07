@@ -1,13 +1,11 @@
 # Overview
 * Clean Code
-  * Introduction
   * COM3
     * Communicative
     * Comprehensive
     * Compact
 
 # Clean Code
-## Introduction
 One of the most important yet least discussed aspects of successful projects is clean code. Although it may be tempting to cut corners to have a feature implemented as quickly as possible, bad programming practices can lead you to much more frustration than you might expect. When writing code, remind yourself that you’ll be rereading that code many months from now — you want to make sure it’ll still make sense after you’ve had a long mental break from it.
 
 Remember COM3:

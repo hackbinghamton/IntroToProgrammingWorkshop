@@ -1,10 +1,12 @@
-# Bringing an Idea to Life (well, code)
-The first step to starting a personal project is coming up with an idea to build upon. Here we'll outline steps to help you define a strong idea for your project.
+# Overview
 
-## Overview
 * [Define the Problem](#define-the-problem)
 * [Determine Affected Audience](#determine-affected-audience)
 * [Determine the Solution](#determine-the-solution)
+
+# Bringing an Idea to Life (well, code)
+
+The first step to starting a personal project is coming up with an idea to build upon. Here we'll outline steps to help you define a strong idea for your project.
 
 ## Define the Problem
 You want to identify a problem that you aim to address with the completion of your project. It's important that the problem is clearly defined so it can guide you for planning the rest of the details regarding the project. Here are three aspects that you should consider when coming up with an idea:

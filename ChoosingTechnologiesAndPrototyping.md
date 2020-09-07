@@ -7,6 +7,10 @@
     * Diagrams
     * Class and Function Signatures
 
+# Choosing Technologies and Prototyping
+
+Now that we've figured out an idea as well as fleshed out the details of what it should do by the end, let's start figuring out how we'll implement our project.
+
 ## Researching and Choosing Technologies
 
 When it comes time to start developing your project, you'll first need to decide what kind of technologies you're going to be using.

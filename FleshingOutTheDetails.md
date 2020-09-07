@@ -1,5 +1,5 @@
-# Fleshing out the Details
-## Overview
+# Overview
+
 * Acceptance Criteria
   * When to create an AC
   * How to create an AC
@@ -14,7 +14,10 @@
   * Establishing a Time Frame
   * Agile is pretty cool!
 
+# Fleshing out the Details
+
 ## Acceptance Criteria
+
 Acceptance criteria (AC) are the pre-established standards that a project must meet to satisfy its users. The AC should define the end goals; furthermore, it defines when the project is done. This is important so that nothing is forgotten in the process and there is no ambiguity in the design.
 
 ### When to Create an AC

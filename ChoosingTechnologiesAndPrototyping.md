@@ -69,7 +69,7 @@ If you're going to be storing large amounts of data for your project, it's impor
 
  - Just like with SQL, there are many different engines for implementing NoSQL. By far the most popular option is MongoDB, which is also supported by nearly every major programming language. 
 
-Our Data Science Workshop on October 12 will have an introduction to SQL, so mark your calendar if you want to learn more!
+Our Data Science Workshop on October 12 will have an introduction to SQL and MongoDB, so mark your calendar if you want to learn more!
 
 ## Prototyping
 ### Diagrams

@@ -20,11 +20,12 @@
 
 ## What is the terminal?
 
-The terminal is a command line interface which takes commands from a user, lets the computer process the commands, and displays the output through a command line interface.
+The terminal is a command line interface which takes commands from a user, lets the computer process the commands, and displays the output.
 
-### Why use the Terminal?
+### Why use the terminal?
 While graphical user interfaces (GUIs) are helpful for a lot of things, sometimes command line interfaces (CLIs) are the better tool for the job.
-As an example, imagine you have a messy folder, and you want to combine all the .txt files into a new file called "newfile.txt". If you use a GUI, this seems like a tedious task, but it only takes one line in the *shell*.
+
+As an example, imagine you have a messy folder, and you want to combine all the .txt files into a new file called `newfile.txt`. If you use a GUI, this seems like a tedious task, but it only takes one line in the terminal.
 
 ```
 cat *.txt > newfile.txt
@@ -33,10 +34,10 @@ cat *.txt > newfile.txt
 ### How to open the terminal
 
 ### Mac OS
-1. Open Finder from the Dock.
-2. Open your Applications folder.
-3. Open Utilities.
-4. Double click on Terminal.
+1. Open *Finder* from the Dock.
+2. Open your *Applications* folder.
+3. Open *Utilities*.
+4. Double click on *Terminal*.
 
 ![terminal image](images/terminal.png)
 
@@ -44,11 +45,11 @@ cat *.txt > newfile.txt
 Hit the keyboard shortcut Ctrl - Alt - T.
 
 ### Windows
-Windows also has a built-in terminal, Command Line. Command line differs greatly from the shells on Mac and Linux.
+Windows also has a built-in terminal, Command Line (or `cmd`); however, Command line differs greatly from the shells on Mac and Linux, so we will not cover the specifics of how to work with it.
 
-Thankfully, Windows comes with Powershell, which supports many common Linux commands.
+The Windows installation of Git comes with a version of Bash (the shell on Mac and Linux). This tutorial mostly follows Bash conventions, so we recommend installing Git for Windows users. You can get Git (and its version of Bash) [here](https://git-for-windows.github.io/).
 
-The Windows installation of Git comes with a version of Bash (the shell on Mac and Linux). This tutorial mostly follows Bash conventions, so we recommend installing Git for Windows users. You can get Git (and its version of Bash) [here.](https://git-for-windows.github.io/)
+If you'd prefer, Windows comes with Powershell, which supports many common Linux commands.
 
 ### File Structure
 #### Directories
